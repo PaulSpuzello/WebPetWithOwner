@@ -13,7 +13,7 @@
 	Name: <input type = "text" name = "name" value = "${petToEdit.name}">
 	Owner: <input type = "text" name = "owner" value = "${petToEdit.owner}">
 	<input type = "hidden" name = "id" value="${petToEdit.id}">
-	<input type = "submit" value = "Save Edited Item">
+	<input type = "submit" value = "Save Edited Pet">
 	</form>
 </body>
 </html>
